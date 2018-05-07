@@ -17,6 +17,7 @@ Bash
 | ctrl + k          | Clear all AFTER cursor |
 | ctrl + r          | Search backward starting at the current line and moving 'up' through the history as necessary |
 | crtl + s          | Search forward starting at the current line and moving 'down' through the history as necessary |
+| ctrl + g          | Exit history search|
 | ctrl + c          | stop whatever is running |
 | ctrl + d          | Exit shell (same as exit command) |
 | ctrl + w          | delete the word BEFORE the cursor |
