@@ -3,14 +3,14 @@ Bash
 
 ## Moving
 | command  | description                    |
-|-------------------------------------------|
+|---|---|
 | alt + f  | move cursor FORWARD one word   |
 | alt + b  | move cursor BACK one word      |
 
 ## Other
 
 | command  | description                    |
-|----------|--------------------------------|
+|---|---|
 | ctrl + d          | Delete the character under the cursor |
 | ctrl + l          | Clear the screen (same as clear command) |
 | ctrl + u          | Clear all BEFORE cursor |
@@ -31,9 +31,3 @@ Bash
 | !!                | Run PREVIOUS command (ie `sudo !!`) |
 | !vi               | Run PREVIOUS command that BEGINS with vi |
 | cd -              | change to PREVIOUS working directory |
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
