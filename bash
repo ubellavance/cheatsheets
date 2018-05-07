@@ -2,7 +2,8 @@ Bash
 ====
 
 ## Moving
-
+| command  | description                    |
+|-------------------------------------------|
 | alt + f  | move cursor FORWARD one word   |
 | alt + b  | move cursor BACK one word      |
 
