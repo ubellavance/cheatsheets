@@ -31,3 +31,9 @@ Bash
 | !!                | Run PREVIOUS command (ie `sudo !!`) |
 | !vi               | Run PREVIOUS command that BEGINS with vi |
 | cd -              | change to PREVIOUS working directory |
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
